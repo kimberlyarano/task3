@@ -114,6 +114,7 @@ img {
     .wrapper {
         margin-top: 20px;
         border-radius: 0;
+        max-width: 95%;
     }
     
     table {
@@ -133,5 +134,10 @@ img {
     .link {
         padding: 8px;
         font-size: 16px;
+    }
+    
+    img {
+        width: 40px;
+        height: 40px;
     }
 }
